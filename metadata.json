@@ -1,0 +1,6 @@
+{
+  "name": "Sunshine Cafe - Koramangala",
+  "description": "Premium all-day breakfast, artisanal burgers, craft coffee, and desserts in Koramangala, Bangalore. Table bookings, live status, and orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
